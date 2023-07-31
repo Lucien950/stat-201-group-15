@@ -1,7 +1,7 @@
 # STAT 201 Group 15 
 <hr>  
 
-**Group Members**: Rhiannon Charles, Fumiya INaba, Edwin Zheng, Shaurya Veer Anand  
+**Group Members**: Rhiannon Charles, Fumiya Inaba, Edwin Zheng, Shaurya Veer Anand  
 
 ## On the Impact of EGFR Mutation and Age at Diagnosis on Glioma Grade  
 This dataset is taken from the UCI Machine Learning Repository, linked [here](http://archive.ics.uci.edu/dataset/759/glioma+grading+clinical+and+mutation+features+dataset). It is also available from this [repository link](https://raw.githubusercontent.com/Lucien950/stat-201-group-15/main/TCGA_InfoWithGrade.csv) for direct import into an R environment. This is also the link used in the Jupyter notebook.
